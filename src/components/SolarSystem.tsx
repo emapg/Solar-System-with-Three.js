@@ -24,7 +24,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[0, 0, 0]}
         radius={10}
-        textureUrl="https://images.unsplash.com/photo-1614642264762-d0a3b8bf3700?auto=format&fit=crop&q=80"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_sun.jpg"
         emissive="#ff9800"
         emissiveIntensity={2}
       />
@@ -33,7 +33,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[20, 0, 0]}
         radius={1.2}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/a/a0/Mercury_in_true_color.jpg"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_mercury.jpg"
         orbitRadius={20}
         orbitSpeed={0.2}
       />
@@ -42,7 +42,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[30, 0, 0]}
         radius={3}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/4/4a/Venus_%28planet%29.jpg"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_venus_surface.jpg"
         orbitRadius={30}
         orbitSpeed={0.15}
       />
@@ -51,7 +51,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[45, 0, 0]}
         radius={3.8}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/6/6f/Earth_from_Space.jpg"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_earth_daymap.jpg"
         orbitRadius={45}
         orbitSpeed={0.1}
       />
@@ -60,7 +60,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[60, 0, 0]}
         radius={2}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/e/e5/Mars_2020_logo.png"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_mars.jpg"
         orbitRadius={60}
         orbitSpeed={0.08}
       />
@@ -69,7 +69,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[90, 0, 0]}
         radius={7}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter_Amalthea_Laplace.jpg"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_jupiter.jpg"
         orbitRadius={90}
         orbitSpeed={0.05}
       />
@@ -78,7 +78,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[120, 0, 0]}
         radius={6}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/9/99/Saturn_during_Equinox.jpg"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_saturn.jpg"
         orbitRadius={120}
         orbitSpeed={0.04}
       />
@@ -87,7 +87,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[160, 0, 0]}
         radius={5}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/8/8c/Uranus_-_NASA.png"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_uranus.jpg"
         orbitRadius={160}
         orbitSpeed={0.03}
       />
@@ -96,7 +96,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[200, 0, 0]}
         radius={5.5}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/5/5f/Neptune_Full.png"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_neptune.jpg"
         orbitRadius={200}
         orbitSpeed={0.02}
       />
@@ -105,7 +105,7 @@ export function SolarSystem() {
       <CelestialBody
         position={[240, 0, 0]}
         radius={2.5}
-        textureUrl="https://upload.wikimedia.org/wikipedia/commons/d/d9/Pluto_in_true_color.jpg"
+        textureUrl="https://solar-system-with-three-js.pages.dev/2k_moon.jpg"
         orbitRadius={240}
         orbitSpeed={0.01}
       />
